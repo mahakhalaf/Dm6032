@@ -1,0 +1,19 @@
+h1{font-family:sego UI;
+text-algin:center;
+font-size:25px;
+font-weight:bold;
+color:navy;
+letter-spacing:3px;
+border:2px solid black;
+line-height:48px;
+background-color:lightgrey;
+}
+ul{display:flex;
+justify-content:center;
+gap: 50px;
+  a{color:black;}
+  font-family: seogoe UI, arial;
+  font-size:13px;
+  letter-spacing:3px;
+  text-decoration:underline;
+  font-weight:bold;
